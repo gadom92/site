@@ -51365,8 +51365,8 @@ s[1]=B.d.hz(s[1])
 s[2]=B.d.hz(s[2])
 s[3]=B.d.hz(s[3])}}
 A.zD.prototype={
-N(a){var s=null,r=A.t2("Artysta programista",A.pO(B.af,s,s)),q=t.E,p=A.a([A.ZF(B.yD,B.tx,A.alr(),A.y4(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],q),o=A.t2("Mateusz Gadomski",A.pO(B.af,32,B.al)),n=A.t2("Flutter Developer",A.pO(B.af,18,s)),m=A.ZF(B.yE,A.t2("gadomski92@gmail.com",A.pO(B.af,s,s)),A.aaA(),A.y4(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),l=A.ZF(B.yF,B.tx,A.aaB(),A.y4(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),k=A.y4(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)
-return new A.qr(new A.ry(new A.oG(r,p,B.j,!0,new A.Gq(s,s,1/0,56),s),A.KX(A.ae0(A.a([B.vz,B.tm,B.Ew,o,B.tl,n,B.tm,m,B.Ev,B.tl,A.TG(A.a([l,A.ZF(B.yI,A.t2("",A.pO(B.af,16,s)),A.als(),k),A.t2("+48 604 080 591",A.pO(B.af,s,s))],q),B.cq,B.pX,B.eT)],q),B.pX),s,s),B.j,s),"Mateusz Gadomski",!1,s)}}
+N(a){var s="Mateusz Gadomski",r=null,q=A.t2("Artysta programista",A.pO(B.af,r,r)),p=t.E,o=A.a([A.ZF(B.yD,B.tx,A.alr(),A.y4(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r))],p),n=A.t2(s,A.pO(B.af,32,B.al)),m=A.t2("Flutter Developer",A.pO(B.af,18,r)),l=A.ZF(B.yE,A.t2("gadomski92@gmail.com",A.pO(B.af,r,r)),A.aaA(),A.y4(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)),k=A.ZF(B.yF,B.tx,A.aaB(),A.y4(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)),j=A.y4(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
+return new A.qr(new A.ry(new A.oG(q,o,B.j,!0,new A.Gq(r,r,1/0,56),r),A.KX(A.ae0(A.a([B.vz,B.tm,B.Ew,n,B.tl,m,B.tm,l,B.Ev,B.tl,A.TG(A.a([k,A.ZF(B.yI,A.t2("",A.pO(B.af,16,r)),A.als(),j),A.t2("+48 604 080 591",A.pO(B.af,r,r))],p),B.cq,B.pX,B.eT)],p),B.pX),r,r),B.j,r),s,!1,r)}}
 A.a39.prototype={
 $0(){var s=t.m7
 if(s.b(A.aaC()))return s.a(A.aaC()).$1(A.a([],t.s))
